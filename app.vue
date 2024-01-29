@@ -6,3 +6,10 @@ import '@unocss/reset/tailwind.css';
     <NuxtPage/>
   </NuxtLayout>
 </template>
+
+<style>
+.dark-mode {
+  background: #000;
+  color: #fff;
+}
+</style>
