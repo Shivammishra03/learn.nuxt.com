@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@iconify/json": "^2.2.176",
     "@nuxt/content": "^2.11.0",
     "@nuxtjs/color-mode": "^3.3.2",
     "@unocss/nuxt": "^0.58.4",
@@ -17,5 +18,8 @@
     "nuxt": "^3.9.3",
     "vue": "^3.4.14",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@webcontainer/api": "^1.1.9"
   }
 }
