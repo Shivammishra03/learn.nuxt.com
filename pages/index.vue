@@ -1,5 +1,4 @@
 <script lang="ts" setup>
-
 </script>
 <template>
   <div class="grid grid-cols-[1fr_2fr] h-full">
